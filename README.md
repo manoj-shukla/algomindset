@@ -1,1 +1,3 @@
-# algomindset
+# algomindset 
+
+###Manoj shukla
