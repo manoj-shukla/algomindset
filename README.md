@@ -1,3 +1,3 @@
 # algomindset 
 
-###Manoj shukla
+###Manoj kumar shukla
